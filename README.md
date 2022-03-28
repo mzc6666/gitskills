@@ -1,6 +1,6 @@
 # gitskills
 
-Creating a new branch is quick
+Creating a new branch is quickly
 
 i have add issure-101 branch
 
